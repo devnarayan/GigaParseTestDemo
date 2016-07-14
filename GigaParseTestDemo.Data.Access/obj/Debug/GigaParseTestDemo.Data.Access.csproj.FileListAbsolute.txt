@@ -1,0 +1,14 @@
+E:\TestDemo\GigaParseTestDemo\GigaParseTestDemo.Data.Access\bin\Debug\GigaParseTestDemo.Data.Access.dll.config
+E:\TestDemo\GigaParseTestDemo\GigaParseTestDemo.Data.Access\bin\Debug\GigaParseTestDemo.Data.Access.dll
+E:\TestDemo\GigaParseTestDemo\GigaParseTestDemo.Data.Access\bin\Debug\GigaParseTestDemo.Data.Access.pdb
+E:\TestDemo\GigaParseTestDemo\GigaParseTestDemo.Data.Access\bin\Debug\AutoMapper.dll
+E:\TestDemo\GigaParseTestDemo\GigaParseTestDemo.Data.Access\bin\Debug\EntityFramework.dll
+E:\TestDemo\GigaParseTestDemo\GigaParseTestDemo.Data.Access\bin\Debug\EntityFramework.SqlServer.dll
+E:\TestDemo\GigaParseTestDemo\GigaParseTestDemo.Data.Access\bin\Debug\GigaParaseTestDemo.Data.Model.dll
+E:\TestDemo\GigaParseTestDemo\GigaParseTestDemo.Data.Access\bin\Debug\GigaParaseTestDemo.Data.Model.pdb
+E:\TestDemo\GigaParseTestDemo\GigaParseTestDemo.Data.Access\bin\Debug\AutoMapper.xml
+E:\TestDemo\GigaParseTestDemo\GigaParseTestDemo.Data.Access\bin\Debug\EntityFramework.xml
+E:\TestDemo\GigaParseTestDemo\GigaParseTestDemo.Data.Access\bin\Debug\EntityFramework.SqlServer.xml
+E:\TestDemo\GigaParseTestDemo\GigaParseTestDemo.Data.Access\obj\Debug\GigaParseTestDemo.Data.Access.csprojResolveAssemblyReference.cache
+E:\TestDemo\GigaParseTestDemo\GigaParseTestDemo.Data.Access\obj\Debug\GigaParseTestDemo.Data.Access.dll
+E:\TestDemo\GigaParseTestDemo\GigaParseTestDemo.Data.Access\obj\Debug\GigaParseTestDemo.Data.Access.pdb

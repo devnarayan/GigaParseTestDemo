@@ -1,0 +1,5 @@
+E:\TestDemo\GigaParseTestDemo\GigaParaseTestDemo.Data.Model\bin\Debug\GigaParaseTestDemo.Data.Model.dll
+E:\TestDemo\GigaParseTestDemo\GigaParaseTestDemo.Data.Model\bin\Debug\GigaParaseTestDemo.Data.Model.pdb
+E:\TestDemo\GigaParseTestDemo\GigaParaseTestDemo.Data.Model\obj\Debug\GigaParaseTestDemo.Data.Model.csprojResolveAssemblyReference.cache
+E:\TestDemo\GigaParseTestDemo\GigaParaseTestDemo.Data.Model\obj\Debug\GigaParaseTestDemo.Data.Model.dll
+E:\TestDemo\GigaParseTestDemo\GigaParaseTestDemo.Data.Model\obj\Debug\GigaParaseTestDemo.Data.Model.pdb

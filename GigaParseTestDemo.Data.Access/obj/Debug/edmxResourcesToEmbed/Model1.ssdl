@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GigaParseTestDemoDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Project">
+    <Key>
+      <PropertyRef Name="ProjectID" />
+    </Key>
+    <Property Name="ProjectID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="CrDate" Type="datetime" />
+    <Property Name="CrBy" Type="nvarchar" MaxLength="50" />
+    <Property Name="PName" Type="nvarchar" MaxLength="50" />
+    <Property Name="CompanyName" Type="nvarchar" MaxLength="256" />
+    <Property Name="Location" Type="nvarchar" MaxLength="256" />
+    <Property Name="Address" Type="nvarchar" MaxLength="256" />
+    <Property Name="ReceiptPrefix" Type="nvarchar" MaxLength="50" />
+    <Property Name="RecordStatus" Type="int" />
+    <Property Name="OfficeAddress" Type="nvarchar" MaxLength="256" />
+    <Property Name="District" Type="nvarchar" MaxLength="50" />
+    <Property Name="Village" Type="nvarchar" MaxLength="50" />
+    <Property Name="Tehsil" Type="nvarchar" MaxLength="50" />
+    <Property Name="Jurisdiction" Type="nvarchar" MaxLength="50" />
+    <Property Name="PossessionDate" Type="datetime" />
+    <Property Name="ReceiptNo" Type="nvarchar" MaxLength="50" />
+    <Property Name="AuthoritySign" Type="nvarchar" MaxLength="100" />
+    <Property Name="Contact" Type="nvarchar" MaxLength="30" />
+    <Property Name="AuthEmail" Type="nvarchar" MaxLength="256" />
+  </EntityType>
+  <EntityContainer Name="GigaParseTestDemoDBModelStoreContainer">
+    <EntitySet Name="Project" EntityType="Self.Project" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
